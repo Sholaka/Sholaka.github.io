@@ -1,1 +1,1 @@
-Verkkosivujen kehittäinen repositorio
+Verkkosivujen kehittäminen repositorio
